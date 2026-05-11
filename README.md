@@ -36,10 +36,7 @@ Advanced customization options
 Multiple design style support
 Improved AI accuracy
 Real-time editing features
-Cloud storage integration
-👨‍💻 Team
-
-Developed as an innovative AI-based design project to explore the real-world applications of Artificial Intelligence in the creative industry.
+Cloud storage integration.
 
 📷 Output
 
